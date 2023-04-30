@@ -115,8 +115,8 @@
 
 🤝 Podemos melhorar ...
 
-   <h4 align = 'center'> Este repositório foi criado para fins de estudo, então contribua com ele. </h4>
-&emsp;&emsp;E, se te ajudei de alguma forma, ficarei feliz em saber. Caso você conheça alguém que se identifique com o conteúdo, não deixe de compartilhar.
+                Este repositório foi criado para fins de estudo, então contribua com ele. 
+&emsp;&emsp;E, se te ajudei de alguma forma, ficarei feliz em saber. Caso você conheça alguém que se identifique com o conteúdo, não deixe de compartilhar.<br>
 
 🤝 <i>Você pode ainda ...<i>
 
@@ -124,4 +124,4 @@
 🐛 Encontrar e relatar issues.
 
 
-<h4 align = 'center'><i><b> “ Você não está sozinho ... ” <i></b></h4>
+<h4 align = 'center'><i><b> “ Boa Sorte em sua jornada! ” <i></b></h4>
