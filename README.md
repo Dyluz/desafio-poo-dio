@@ -1,24 +1,26 @@
 <h1 align = "center"> Aprenda na Prática Programação Orientada a Objetos </h1>
 
-    Sejam bem-vindos!!! APRENDA NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.
- Este é o Desafio da DIO que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+   <h3 align = 'center'> Sejam bem-vindos!!! APRENDA NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</h3>
+Este é o Desafio da DIO que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
 
 💛 O objetivo principal é colocar em prática umas das principais ferramentas da POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
-
+<p>
 🛑 Pré-Requisitos
-✅ Conhecer a sintaxe da Java
-✅ Java JDK 11
-✅ IDE para desenvolvimento Java (usarei Visual Studio Code)
-✅ Git
-✅ Conta no GitHub
+
+✅ Conhecer a sintaxe da Java<br>
+✅ Java JDK 11<br>
+✅ IDE para desenvolvimento Java (usarei Visual Studio Code)<br>
+✅ Git<br>
+✅ Conta no GitHub<br>
+</p>
 
 👣 Passo-a-Passo:
 
-'Passo 1: '  Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS;
-'Passo 2: ' Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las;
-'Passo 3: ' As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS;
-'Passo 4: ' Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO;
-'Passo 5: ' E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS.
+'Passo 1: '  Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS;<br>
+'Passo 2: ' Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las;<br>
+'Passo 3: ' As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS;<br>
+'Passo 4: ' Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO;<br>
+'Passo 5: ' E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS.<br>
 
 📚 Paradigma de Programação Orientado a Objetos (POO)
 
