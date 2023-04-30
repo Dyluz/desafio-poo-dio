@@ -124,3 +124,6 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 
 ⭐️ Star o projeto;<br>
 🐛 Encontrar e relatar issues.
+
+
+<h4 align = 'center'><i><b> George R.R. Martin “Todo voo começa com uma queda.”<i></b></h4>
