@@ -1,7 +1,8 @@
-# <h1 align = "center"> Aprenda na Prática Programação Orientada a Objetos </h1>
+<h1 align = "center"> Aprenda na Prática Programação Orientada a Objetos </h1>
 
     Sejam bem-vindos!!! APRENDA NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.
  Este é o Desafio da DIO que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+
 💛 O objetivo principal é colocar em prática umas das principais ferramentas da POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 
 🛑 Pré-Requisitos
@@ -11,7 +12,7 @@
 ✅ Git
 ✅ Conta no GitHub
 
-👣 # :hammer: Passo-a-Passo:
+👣 Passo-a-Passo:
 
 'Passo 1: '  Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS;
 'Passo 2: ' Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las;
