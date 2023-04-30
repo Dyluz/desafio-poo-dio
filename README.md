@@ -2,9 +2,9 @@
 
    <h3 align = 'center'> Sejam bem-vindos!!! APRENDA NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</h3>
    <p>
-&emsp;Este é o Desafio da DIO que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+&emsp;&emsp;Este é o Desafio da DIO que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
 
-💛 O objetivo principal é colocar em prática umas das principais ferramentas da POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
+&emsp;💛 O objetivo principal é colocar em prática umas das principais ferramentas da POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 </p>
 <p>
 🛑 Pré-Requisitos
@@ -26,23 +26,19 @@
 
 <h3 align = "center">📚 Paradigma de Programação Orientado a Objetos (POO)</h3>
 
-    A visão de Orientação a Objetos (OO) é aquela de um mundo de objetos que interagem.
+                A visão de Orientação a Objetos (OO) é aquela de um mundo de objetos que interagem.
 
-&emsp;Este paradigma é um modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.<br>
+&emsp;&emsp;Este paradigma é um modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.<br>
 
-São 4 os pilares principais do POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO.
+&emsp;&emsp;São 4 os pilares principais do POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO.
 
-🔺 ABSTRAÇÃO:
-Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Nesse contexto, objetos são abstrações de entidades existentes no domínio em questão.
+🔺 ABSTRAÇÃO: Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Nesse contexto, objetos são abstrações de entidades existentes no domínio em questão.
 
-🔺 ENCAPSULAMENTO:
-Encapsular significa esconder a implementação dos objetos. O encapsulamento favorece principalmente dois aspectos de um sistema: a manutenção e a evolução.
+🔺 ENCAPSULAMENTO: Encapsular significa esconder a implementação dos objetos. O encapsulamento favorece principalmente dois aspectos de um sistema: a manutenção e a evolução.
 
-🔺 HERANÇA:
-Permite que você defina uma classe filha que reutiliza (herda), estende ou modifica o comportamento de uma classe pai. A classe cujos membros são herdados é chamada de classe base. A classe que herda os membros da classe base é chamada de classe derivada.
+🔺 HERANÇA: Permite que você defina uma classe filha que reutiliza (herda), estende ou modifica o comportamento de uma classe pai. A classe cujos membros são herdados é chamada de classe base. A classe que herda os membros da classe base é chamada de classe derivada.
 
-🔺 POLIMORFISMO:
-Capacidade de um objeto poder ser referenciado de várias formas. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele. A capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica é chamada de polimorfismo.
+🔺 POLIMORFISMO: Capacidade de um objeto poder ser referenciado de várias formas. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele. A capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica é chamada de polimorfismo.
 
 
 <h3 align = 'center'>‼️ CONCEITOS FUNDAMENTAIS POO ‼️</h3>
@@ -65,43 +61,45 @@ Capacidade de um objeto poder ser referenciado de várias formas. Cuidado, polim
 
 <h3 align = 'center'>✨ LINGUAGEM DE PROGRAMAÇÃO: </h3>
 
-&emsp;É uma linguagem formal que, através de uma série de instruções, permite que um programador escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.
-Seguem alguns exemplos de como as linguagens de programação podem ser classificadas:
+&emsp;&emsp;É uma linguagem formal que, através de uma série de instruções, permite que um programador escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.
+
+&emsp;&emsp;Seguem alguns exemplos de como as linguagens de programação podem ser classificadas:
 
 🔺 Nível de abstração:
 
-Baixo Nível: Assembly
-Médio Nível: C, C++, D, Objective C, etc.
-Alto Nível: Java, C#, PHP, Javascript, etc.
-Altíssimo Nível: Python, Ruby, Elixir, etc.
+&emsp;Baixo Nível: Assembly
+&emsp;Médio Nível: C, C++, D, Objective C, etc.
+&emsp;Alto Nível: Java, C#, PHP, Javascript, etc.
+&emsp;Altíssimo Nível: Python, Ruby, Elixir, etc.
 
 🔺 Paradigma de programação:
 
-Programação Estruturada: C, Pascal, Ada, etc.
-Programação Orientada a Objetos: Java, C#, C++, Objective C, D, etc.
-Programação Funcional: Lisp, Scheme, Erlang, Elixir, etc.
+&emsp;Programação Estruturada: C, Pascal, Ada, etc.
+&emsp;Programação Orientada a Objetos: Java, C#, C++, Objective C, D, etc.
+&emsp;Programação Funcional: Lisp, Scheme, Erlang, Elixir, etc.
 
 🔺 Linguagens classificadas pela arquitetura da aplicação:
 
-Desktop: C, C++, Object Pascal, Java, etc.
-Web: PHP, Ruby, Javascript, Java, etc.
+&emsp;Desktop: C, C++, Object Pascal, Java, etc.
+&emsp;Web: PHP, Ruby, Javascript, Java, etc.
 
 🔺 Tipo de execução:
 
-Linguagens compiladas: C, C++, Pascal, D, GO, etc.
-Linguagens Interpretadas: Python, Ruby, PHP, Javascript, etc.
-Linguagens Hibridas: Java, Erlang, Elixir, etc.
+&emsp;Linguagens compiladas: C, C++, Pascal, D, GO, etc.
+&emsp;Linguagens Interpretadas: Python, Ruby, PHP, Javascript, etc.
+&emsp;Linguagens Hibridas: Java, Erlang, Elixir, etc.
 
 <h3 align = 'center'>✨ PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO</h3>
 
-&emsp;É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.
+&emsp;&emsp;É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.
 
 <h3 align = 'center'>✨ PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS</h3>
 
 🔸 1. Paradigma Imperativo
 
-&emsp;Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.
-Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programação que adotam esses subparadigmas.
+&emsp;&emsp;Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.
+
+&emsp;&emsp;Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programação que adotam esses subparadigmas.
 
 🔸 1.1 Paradigma estruturado: ALGOL 58 e ALGOL 60;<br>
 🔸 1.2 Paradigma concorrente: Java e Ada;<br>
@@ -109,16 +107,16 @@ Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de pr
 
 🔹 2. Paradigma Declarativo
 
-&emsp;Este paradigma é o modelo no qual os resultados são descritos, mas os passos para chegar aos resultados não são estabelecidos.
-Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programação que adotam esses subparadigmas:
+&emsp;&emsp;Este paradigma é o modelo no qual os resultados são descritos, mas os passos para chegar aos resultados não são estabelecidos.
+&emsp;&emsp;Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programação que adotam esses subparadigmas:
 
 🔹 2.1 Paradigma Funcional: Lisp e Haskell;<br>
 🔹 2.2 Paradigma Lógico: Prolog.<br>
 
 🤝 Podemos melhorar ...
 
-    Este repositório foi criado para fins de estudo, então contribua com ele.
-&emsp;E, se te ajudei de alguma forma, ficarei feliz em saber. Caso você conheça alguém que se identifique com o conteúdo, não deixe de compartilhar.
+   <h4 align = 'center'> Este repositório foi criado para fins de estudo, então contribua com ele. </h4>
+&emsp;&emsp;E, se te ajudei de alguma forma, ficarei feliz em saber. Caso você conheça alguém que se identifique com o conteúdo, não deixe de compartilhar.
 
 🤝 <i>Você pode ainda ...<i>
 
@@ -126,4 +124,4 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 🐛 Encontrar e relatar issues.
 
 
-<h4 align = 'center'><i><b> George R.R. Martin “Todo voo começa com uma queda.”<i></b></h4>
+<h4 align = 'center'><i><b> “ Você não está sozinho ... ” <i></b></h4>
