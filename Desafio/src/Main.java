@@ -1,4 +1,5 @@
 import dominio.Bootcamp;
+import dominio.Conteudo;
 import dominio.Curso;
 import dominio.Dev;
 import dominio.Mentoria;
@@ -42,14 +43,31 @@ public class Main {
         Dev devCamila = new Dev();
         devCamila.setNome("Camila");
         devCamila.inscreverBootcamp(bootcamp);
-        System.out.println("Conteúdos Inscritos Camila:" + devCamila.getConteudosInscritos());
+        System.out.println("Conteúdos Inscritos Camila:");
+        System.out.println("");
+            for (Conteudo conteudo : devCamila.getConteudosInscritos()) {
+        System.out.println(" * " + conteudo);
+        System.out.println("");
+        };
         devCamila.progredir();
         devCamila.progredir();
         devCamila.progredir();
         devCamila.progredir();
         System.out.println("-");
-        System.out.println("Conteúdos Inscritos Camila:" + devCamila.getConteudosInscritos());
-        System.out.println("Conteúdos Concluídos Camila:" + devCamila.getConteudosConcluidos());
+        System.out.println("Conteúdos que faltam concluir Camila:");
+        System.out.println("");
+            for (Conteudo conteudo : devCamila.getConteudosInscritos()) {
+        System.out.println(" * " + conteudo);
+        System.out.println("");
+        };
+        System.out.println("--");
+        System.out.println("Conteúdos Concluídos Camila:");
+        System.out.println("");
+            for (Conteudo conteudo: devCamila.getConteudosConcluidos()){
+        System.out.println(" * " + conteudo);
+        System.out.println("");                
+            };
+        System.out.println("---");
         System.out.println("XP:" + devCamila.calcularTotalXp());
 
         System.out.println("-------");
@@ -57,15 +75,32 @@ public class Main {
         Dev devJoao = new Dev();
         devJoao.setNome("Joao");
         devJoao.inscreverBootcamp(bootcamp);
-        System.out.println("Conteúdos Inscritos João:" + devJoao.getConteudosInscritos());
+        System.out.println("Conteúdos Inscritos João:");
+        System.out.println("");
+            for (Conteudo conteudo: devJoao.getConteudosInscritos()){
+                System.out.println(" * " + conteudo);
+                System.out.println("");
+            };
         devJoao.progredir();
         devJoao.progredir();
         devJoao.progredir();
         System.out.println("-");
-        System.out.println("Conteúdos Inscritos João:" + devJoao.getConteudosInscritos());
-        System.out.println("Conteúdos Concluidos João:" + devJoao.getConteudosConcluidos());
+        System.out.println("Conteúdos que faltam concluir João:");
+        System.out.println("");
+            for (Conteudo conteudo: devJoao.getConteudosInscritos()){
+                System.out.println(" * " + conteudo);
+                System.out.println("");
+            };
+        System.out.println("--");
+        System.out.println("Conteúdos Concluidos João:");
+        System.out.println("");
+            for (Conteudo conteudo: devJoao.getConteudosConcluidos()){
+                System.out.println(" * " + conteudo);
+                System.out.println("");
+            };
+            System.out.println("---");
         System.out.println("XP:" + devJoao.calcularTotalXp());
-
+        System.out.println("-------");
     }
 
 }
