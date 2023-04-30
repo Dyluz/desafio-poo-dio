@@ -2,7 +2,7 @@
 
    <h3 align = 'center'> Sejam bem-vindos!!! APRENDA NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</h3>
    <p>
-Este é o Desafio da DIO que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+&emsp;Este é o Desafio da DIO que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
 
 💛 O objetivo principal é colocar em prática umas das principais ferramentas da POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 </p>
@@ -27,7 +27,8 @@ Este é o Desafio da DIO que tive a honra de co-criar com a plataforma de cursos
 <h3 align = "center">📚 Paradigma de Programação Orientado a Objetos (POO)</h3>
 
     A visão de Orientação a Objetos (OO) é aquela de um mundo de objetos que interagem.
-Este paradigma é um modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.<br>
+
+&emsp;Este paradigma é um modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.<br>
 
 São 4 os pilares principais do POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO.
 
@@ -64,7 +65,7 @@ Capacidade de um objeto poder ser referenciado de várias formas. Cuidado, polim
 
 <h3 align = 'center'>✨ LINGUAGEM DE PROGRAMAÇÃO: </h3>
 
-É uma linguagem formal que, através de uma série de instruções, permite que um programador escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.
+&emsp;É uma linguagem formal que, através de uma série de instruções, permite que um programador escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.
 Seguem alguns exemplos de como as linguagens de programação podem ser classificadas:
 
 🔺 Nível de abstração:
@@ -93,13 +94,13 @@ Linguagens Hibridas: Java, Erlang, Elixir, etc.
 
 <h3 align = 'center'>✨ PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO</h3>
 
-É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.
+&emsp;É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.
 
 <h3 align = 'center'>✨ PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS</h3>
 
 🔸 1. Paradigma Imperativo
 
-Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.
+&emsp;Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.
 Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programação que adotam esses subparadigmas.
 
 🔸 1.1 Paradigma estruturado: ALGOL 58 e ALGOL 60;<br>
@@ -108,18 +109,18 @@ Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de pr
 
 🔹 2. Paradigma Declarativo
 
-Este paradigma é o modelo no qual os resultados são descritos, mas os passos para chegar aos resultados não são estabelecidos.
+&emsp;Este paradigma é o modelo no qual os resultados são descritos, mas os passos para chegar aos resultados não são estabelecidos.
 Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programação que adotam esses subparadigmas:
 
 🔹 2.1 Paradigma Funcional: Lisp e Haskell;<br>
 🔹 2.2 Paradigma Lógico: Prolog.<br>
 
-🤝 Contribuindo
+🤝 Podemos melhorar ...
 
-Este repositório foi criado para fins de estudo, então contribua com ele.
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+    Este repositório foi criado para fins de estudo, então contribua com ele.
+&emsp;E, se te ajudei de alguma forma, ficarei feliz em saber. Caso você conheça alguém que se identifique com o conteúdo, não deixe de compartilhar.
 
-Se possível:
+🤝 <i>Você pode ainda ...<i>
 
 ⭐️ Star o projeto;<br>
 🐛 Encontrar e relatar issues.
